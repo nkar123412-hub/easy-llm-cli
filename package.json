@@ -1,6 +1,7 @@
 {
   "name": "easy-llm-cli",
   "version": "0.1.12",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">=20.0.0"
   },

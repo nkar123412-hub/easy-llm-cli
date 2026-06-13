@@ -7,6 +7,7 @@
     "url": "git+https://github.com/ConardLi/easy-llm-cli.git"
   },
   "type": "module",
+  "license": "Apache-2.0",
   "main": "dist/index.js",
   "bin": {
     "gemini": "dist/index.js"
